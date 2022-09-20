@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Adriano Vieira da Silva Santana 🖐️
 - 🚗 Hoje trabalho em uma empresa de  tecnologia e atuo como técnico de campo
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🎓 Cursos realizados HTML5, CSS3 e JavaScript
-- 📚 Estudante de ReactJs e SQL
+- 🎓 Cursos realizados HTML5, CSS3, JavaScript 
+- 📚 Cursando ReactJs e SQLServer
 
 <div align="center">
 <a href="https:https://github.com/adriano-santana">
